@@ -8,12 +8,11 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "src/test/resources/features",
 glue = "steps",
 dryRun = false,
-tags = "@EmployeeLanguage")
+tags = "@test1")
 
 
 
 public class RunnerClass {
-
 
 
     }
